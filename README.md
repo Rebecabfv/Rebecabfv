@@ -3,9 +3,8 @@
     function dev(name, age, work) {
         this.name = name;
         this.age = age;
-        this.studying = studying;
     }
-    let rebecaBaptista = new dev('Rebeca Baptista', 23, 'Programming language');
+    let rebecaBaptista = new dev('Rebeca Baptista', 23);
     console.log(rebecaBaptista);
  
 ### 👀 About me
