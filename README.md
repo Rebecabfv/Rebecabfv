@@ -21,10 +21,4 @@
   <a href="https://www.linkedin.com/in/rebecabaptista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
     
-### 👀 About me
-Estudante de Sistemas de Informação e atualmente estou buscando conhecimento na área de programação.
-
-Possuo graduação em Educação Física e uma das coisas que mais me motiva é poder fazer a diferença na vida de outras pessoas.
-
-Estou sempre buscando novos desafios e aprendizados. Eu adoro estudar e entender como as coisas funcionam.
 
